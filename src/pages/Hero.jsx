@@ -1,11 +1,7 @@
-
-
-
 import React from "react";
-import Form from "../components/common/Form";
 import Icons from "../components/common/Icons";
+import Form from "../components/common/Form";
 import Button from "../components/common/Button";
-
 const Hero = () => {
     return (
         <div
