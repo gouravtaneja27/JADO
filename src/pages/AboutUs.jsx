@@ -15,7 +15,7 @@ const AboutUs = () => {
         <div className=" flex items-center justify-center m-auto bg-[#F9F9F9] px-4 md:px-6">
             <div className="max-w-285 w-full flex flex-col lg:flex-row items-center justify-between my-16 lg:my-25 gap-12 lg:gap-0">
                 <div className="text-center lg:text-left">
-                    <p className="text-[#EF7D00] text-base leading-[100%] font-semibold flex items-center gap-2 ">
+                    <p className="text-[#EF7D00] text-base leading-[100%] font-semibold flex items-center justify-center lg:justify-start gap-2">
                         <Icons icon={"dot"} />
                         About Us
                     </p>
